@@ -1,6 +1,8 @@
 # The Data Tooling Landscape
 
-A list of data analysis, data engineering, and data science tooling and infrastructure.
+A list of data analysis, data engineering, and data science tooling and infrastructure.  
+
+Imported from [a gist](https://gist.github.com/mrtns/c2c851cfb9d3e950b0ad847511c79136).  
 
 
 # Data Workflow SaaS
