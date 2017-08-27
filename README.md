@@ -56,6 +56,8 @@ Imported from [a gist](https://gist.github.com/mrtns/c2c851cfb9d3e950b0ad847511c
 * [AirBnb's Airflow](http://airbnb.io/projects/airflow/)
 * [Coursera's Dataduct](https://github.com/coursera/dataduct)
 * [Pinball by Pinterest](https://github.com/pinterest/pinball)
+* [Apache Crunch](https://crunch.apache.org/)  
+  "Simple and Efficient MapReduce Pipelines"
 
 # Data Pipeline SaaS
 
