@@ -5,7 +5,9 @@ A list of data analysis, data engineering, and data science tooling and infrastr
 Imported from [a gist](https://gist.github.com/mrtns/c2c851cfb9d3e950b0ad847511c79136).  
 
 
-# Data Workflow SaaS
+# Data Workflow
+
+## Data Workflow SaaS
 
 * [Mortar Data](http://help.mortardata.com/)  
   Acquired by Datadog in February 2015
@@ -33,7 +35,8 @@ Imported from [a gist](https://gist.github.com/mrtns/c2c851cfb9d3e950b0ad847511c
 * [Dataiku DSS](https://www.dataiku.com/)  
   "A collaborative data science software platform for teams of data scientists, data analysts, and engineers to explore, prototype, build, and deliver their own data products more efficiently."
 
-# Data Workflow PaaS
+
+## Data Workflow PaaS
 
 * AWS Data Pipeline
 * AWS Batch
@@ -41,7 +44,8 @@ Imported from [a gist](https://gist.github.com/mrtns/c2c851cfb9d3e950b0ad847511c
 * [AWS Glue](https://aws.amazon.com/glue/)  
   "A Fully Managed ETL Service"
 
-# Data Workflow OSS
+
+## Data Workflow OSS
 
 * [redash](https://redash.io/)
 * [Metabase](http://www.metabase.com/)
@@ -50,7 +54,10 @@ Imported from [a gist](https://gist.github.com/mrtns/c2c851cfb9d3e950b0ad847511c
 * [Singer by Stitch](https://www.singer.io/)
 * [Visdom by Facebook Research](https://github.com/facebookresearch/visdom)
 
-# Data Pipeline OSS
+
+# Data Pipeline
+
+## Data Pipeline OSS
 
 * [Spotify's Luigi](http://luigi.readthedocs.io/en/stable/index.html)
 * [AirBnb's Airflow](http://airbnb.io/projects/airflow/)
@@ -59,13 +66,16 @@ Imported from [a gist](https://gist.github.com/mrtns/c2c851cfb9d3e950b0ad847511c
 * [Apache Crunch](https://crunch.apache.org/)  
   "Simple and Efficient MapReduce Pipelines"
 
-# Data Pipeline SaaS
+
+### Schedulers
+
+* [Styx by Spotify](https://github.com/spotify/styx)  
+  "A batch job scheduler for Kubernetes"
+
+
+## Data Pipeline SaaS
 
 * [Alooma](https://www.alooma.com/)  
   "Your Data Pipeline as a Service"
 
 
-# Batch Job Scheduler OSS
-
-* [Styx by Spotify](https://github.com/spotify/styx)  
-  "A batch job scheduler for Kubernetes"
