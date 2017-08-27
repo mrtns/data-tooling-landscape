@@ -63,3 +63,9 @@ Imported from [a gist](https://gist.github.com/mrtns/c2c851cfb9d3e950b0ad847511c
 
 * [Alooma](https://www.alooma.com/)  
   "Your Data Pipeline as a Service"
+
+
+# Batch Job Scheduler OSS
+
+* [Styx by Spotify](https://github.com/spotify/styx)  
+  "A batch job scheduler for Kubernetes"
