@@ -28,6 +28,8 @@ A list of data analysis, data engineering, and data science tooling and infrastr
 * [DataScience.com](https://www.datascience.com/)
 * [Neptune Machine Learning Lab](https://neptune.ml/)  
   by [deepsense.ai](https://deepsense.ai/)
+* [Dataiku DSS](https://www.dataiku.com/)  
+  "A collaborative data science software platform for teams of data scientists, data analysts, and engineers to explore, prototype, build, and deliver their own data products more efficiently."
 
 # Data Workflow PaaS
 
