@@ -44,6 +44,7 @@ A list of data analysis, data engineering, and data science tooling and infrastr
 * [AirBnB's Superset](https://github.com/airbnb/superset)
 * [Singer by Stitch](https://www.singer.io/)
 * [Visdom by Facebook Research](https://github.com/facebookresearch/visdom)
+* [Pinball by Pinterest](https://github.com/pinterest/pinball)
 
 # Data Pipeline OSS
 
