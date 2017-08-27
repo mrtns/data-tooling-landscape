@@ -34,7 +34,8 @@ A list of data analysis, data engineering, and data science tooling and infrastr
 * AWS Data Pipeline
 * AWS Batch
 * Google Cloud Dataflow
-
+* [AWS Glue](https://aws.amazon.com/glue/)  
+  "A Fully Managed ETL Service"
 
 # Data Workflow OSS
 
